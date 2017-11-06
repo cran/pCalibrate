@@ -1,0 +1,17 @@
+55230f03ba092839204299888a5c853a *DESCRIPTION
+9db9ae519aba9ccb129c6ad3656b4c7e *NAMESPACE
+4d5b24168c25fae5638ca01d15039a79 *R/helpers.R
+51a761691cb5a1c8fd5b5df6aa402018 *R/pCalibrate.R
+74a99370c2b0ee7fd207af1cc1ffa6c8 *build/partial.rdb
+cc121570aa90ee9b959501a96aa10609 *inst/CITATION
+16693089613ec24ed07d07e97b52299f *man/BF2pp.Rd
+b69c4f64913430df2f29ab943660bc19 *man/FCalibrate.Rd
+4d946b6fd7354e0c879d87d30899e0aa *man/LRCalibrate.Rd
+86eb08eea196262c7e7cfcc059b58206 *man/formatBF.Rd
+0d3043d8fe99a0a9d4e324c6e2c0fe01 *man/pCalibrate-package.Rd
+b2935eb05ad3c037a113266bfe9bb104 *man/pCalibrate.Rd
+d1ad3cc6e6b28c94b9c76354a55478b5 *man/tCalibrate.Rd
+9be4e7518386338361b0b056e9b9061c *man/twoby2Calibrate.Rd
+490680e86f5964abd57d7ac2276bcbda *man/zCalibrate.Rd
+d38f14a70f58467566a624d163545041 *tests/Test_pCalibrate.R
+821df61965376df47c0bc4ad927fc5af *tests/Test_pCalibrate.Rout.save
